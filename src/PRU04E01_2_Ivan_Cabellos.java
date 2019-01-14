@@ -13,8 +13,7 @@ public class PRU04E01_2_Ivan_Cabellos {
             while (br.read() != -1){
                 line = br.readLine();
                 for (int i = 0; i < line.length(); i++) {
-                    char charActual = line.charAt(i);
-                    if (charActual == '/' && line.charAt(i + 1) == '/') {
+                    if (line.charAt(i) == '/' && line.charAt(i + 1) == '/') {
                         comentario = true;
                         break;
                     }
