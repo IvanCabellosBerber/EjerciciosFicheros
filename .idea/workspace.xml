@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80db18e9-2a93-4b5a-ae63-9464e8e0e707" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PRU04E01_2_Ivan_Cabellos.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SenarsWrite/src/Parells.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SenarsWrite/src/Senars.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SenarsWrite/src/Tots.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Suma/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,40 +26,67 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="7" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="7" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="682" />
-          <entry key="txt" value="5" />
+          <entry key="java" value="1586" />
+          <entry key="txt" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="682" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="JAVA" value="1586" />
+          <entry key="PLAIN_TEXT" value="33" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PRU04E01_1_Ivan_Cabellos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="336">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PRU04E01_2_Ivan_Cabellos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaWithoutComments.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -88,6 +117,9 @@
       <list>
         <option value="$PROJECT_DIR$/words.txt" />
         <option value="$PROJECT_DIR$/src/PRU04E01_1_Ivan_Cabellos.java" />
+        <option value="$PROJECT_DIR$/javaExample.java" />
+        <option value="$PROJECT_DIR$/javaWithoutComments.java" />
+        <option value="$PROJECT_DIR$/src/PRU04E01_2_Ivan_Cabellos.java" />
       </list>
     </option>
   </component>
@@ -95,7 +127,7 @@
     <option name="x" value="953" />
     <option name="y" value="30" />
     <option name="width" value="974" />
-    <option name="height" value="1057" />
+    <option name="height" value="920" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -124,7 +156,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547484932639" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547487139302" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -138,7 +170,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.PRU04E01_2_Ivan_Cabellos">
     <configuration name="PRU04E01_1_Ivan_Cabellos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PRU04E01_1_Ivan_Cabellos" />
       <module name="PRU04E01_1_OrdenarFicheros" />
@@ -146,8 +178,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PRU04E01_2_Ivan_Cabellos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PRU04E01_2_Ivan_Cabellos" />
+      <module name="PRU04E01_1_OrdenarFicheros" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PRU04E01_1_Ivan_Cabellos" />
+      <item itemvalue="Application.PRU04E01_2_Ivan_Cabellos" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PRU04E01_2_Ivan_Cabellos" />
         <item itemvalue="Application.PRU04E01_1_Ivan_Cabellos" />
       </list>
     </recent_temporary>
@@ -163,10 +207,18 @@
       <option name="presentableId" value="Default" />
       <updated>1547482335914</updated>
     </task>
+    <task id="LOCAL-00001" summary="primer ejercicio hecho">
+      <created>1547484949516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547484949516</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="7" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -200,6 +252,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer ejercicio hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer ejercicio hecho" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/words.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -210,11 +266,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PRU04E01_1_Ivan_Cabellos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="336">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/io/Writer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="156" selection-start-line="156" selection-end-line="156" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="657" selection-start-line="657" selection-end-line="657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaWithoutComments.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PRU04E01_2_Ivan_Cabellos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>
