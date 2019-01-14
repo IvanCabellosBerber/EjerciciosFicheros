@@ -1,4 +1,6 @@
  import java.io.*;
+ import java;
+ import java;
 
  public class PRU04E01_2_Ivan_Cabellos {
 
@@ -21,7 +23,7 @@
                     }
                 }
                 //Ponemos la condicion
-                if(!comentario){
+                if (!comentario){
                     bw.write(line);
                 }
                 comentario = false;
