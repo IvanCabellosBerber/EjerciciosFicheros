@@ -20,7 +20,7 @@ public class PRU04E01_1_Ivan_Cabellos {
         try {
 
             br = new BufferedReader(new FileReader("C:\\Temp\\" + args[0]));
-            bw = new BufferedWriter(new FileWriter("C:\\Temp\\" + args[1] + "_sort.txt"));
+            bw = new BufferedWriter(new FileWriter(args[0] + "_sort.txt"));
 
             while (br.read() != -1) {
                 linea = br.readLine();
