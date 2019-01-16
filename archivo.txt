@@ -1,0 +1,11 @@
+ teclado
+ raton
+ ordenador
+ persona
+ amigo
+ estudios
+ wikipedia
+ zebra
+ cabra
+ hoja
+ patata

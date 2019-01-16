@@ -13,10 +13,11 @@ public class PRU04E01_2_Ivan_Cabellos {
             while (br.read() != -1){
                 line = br.readLine();
                 for (int i = 0; i < line.length(); i++) {
-                    if (line.charAt(i) == '/' && line.charAt(i + 1) == '/') {
+                    if (line.charAt(i) == '/' && line.charAt(i + 1) == '/' || line.charAt(i) == '/' && line.charAt(i + 1) == '*') {
                         comentario = true;
                         break;
                     }
+
                 }
                 if(!comentario){
                     bw.write(line + ln);
